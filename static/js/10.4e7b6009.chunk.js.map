@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Layout/PublicLayout/index.js"],"names":["index"],"mappings":"wJAUeA,UARD,WACV,OACI","file":"static/js/10.4e7b6009.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst index = () => {\r\n    return (\r\n        <div>\r\n            Public\r\n        </div>\r\n    );\r\n};\r\n\r\nexport default index;"],"sourceRoot":""}
