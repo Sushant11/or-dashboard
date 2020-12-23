@@ -1,0 +1,2 @@
+(this["webpackJsonpor-admin-dashboard"]=this["webpackJsonpor-admin-dashboard"]||[]).push([[16],{481:function(a,i,n){"use strict";n.r(i);var r=n(1);n(0);i.default=function(){return Object(r.jsx)("div",{children:"Public"})}}}]);
+//# sourceMappingURL=16.7fcb2b27.chunk.js.map
